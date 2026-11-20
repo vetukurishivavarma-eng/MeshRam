@@ -1,0 +1,8 @@
+runtime/
+models/*.gguf
+.testdata/
+__pycache__/
+.pytest_cache/
+web/node_modules/
+web/dist/
+*.part
